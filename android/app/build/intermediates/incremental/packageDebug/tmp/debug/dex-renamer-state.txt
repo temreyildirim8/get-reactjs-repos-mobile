@@ -1,0 +1,4 @@
+#Tue Mar 10 21:46:57 EET 2020
+base.0=/Users/fibabanka006309/Desktop/emre-js/js-projects/tmob/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
